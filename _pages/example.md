@@ -1,5 +1,5 @@
 ---
-permalink: /example.html
+permalink: /example/
 ---
 
 This is just an example page
